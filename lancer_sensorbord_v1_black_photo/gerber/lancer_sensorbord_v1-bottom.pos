@@ -1,0 +1,21 @@
+### Module positions - created on 09/12/18 14:13:38 ###
+### Printed by Pcbnew version kicad (5.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                            PosX       PosY       Rot  Side
+C1        0.1u      C_1608_HandSolderring_1000pF   -28.4000    16.9750  270.0000  bottom
+C2        0.1u      C_1608_HandSolderring_1000pF   -22.9500    16.9750  270.0000  bottom
+C3        1000p     C_2012_HandSolderring_0.1u      33.0500    17.9750  270.0000  bottom
+C4        1000p     C_2012_HandSolderring_0.1u       3.8000    18.3250  270.0000  bottom
+C5        1000p     C_2012_HandSolderring_0.1u     -16.4000    18.1750  270.0000  bottom
+C6        1000p     C_2012_HandSolderring_0.1u     -35.8000    18.2000  270.0000  bottom
+C7        1000p     C_2012_HandSolderring_0.1u     -57.2750    18.2000  270.0000  bottom
+C8        1000p     C_2012_HandSolderring_0.1u     -85.6250    18.0750  270.0000  bottom
+G***      LOGO      sh_3500                          6.4250    12.8750    0.0000  bottom
+R1        100k      R_1608_HandSoldering            33.2500    20.9500  270.0000  bottom
+R2        100k      R_1608_HandSoldering             4.0250    21.0250  270.0000  bottom
+R3        100k      R_1608_HandSoldering           -16.0500    21.1250  270.0000  bottom
+R4        100k      R_1608_HandSoldering           -35.4500    21.1500  270.0000  bottom
+R5        100k      R_1608_HandSoldering           -56.9750    20.8750  270.0000  bottom
+R6        100k      R_1608_HandSoldering           -85.2500    20.8250  270.0000  bottom
+## End
